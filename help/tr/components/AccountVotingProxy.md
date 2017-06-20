@@ -1,0 +1,1 @@
+Bir vekil adınıza oy kullanımını yönetir. Evolution forumunda vekil olarak görev almaya gnüllü kişileri bulabilirsiniz  [Evolutiontalk](https://evolutiontalk.org/index.php/board,75.0.html). 

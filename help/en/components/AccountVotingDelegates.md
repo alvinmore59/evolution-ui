@@ -1,0 +1,1 @@
+[Delegates](introduction/delegate) are the block producers of Evolution. They validate transactions and ensure the safety of the network. You may vote for as many delegates as you'd like, and they will all receive the same amount of votes.

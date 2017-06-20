@@ -1,0 +1,1 @@
+[Taniklar](introduction/delegate) Evolution'in blok üreticileridirler. İşlemlerin geçerliliklerini teyit eder ve ağın güvenliğini sağlarlar. Dilediğiniz kadar tanığa oy verebilirsiniz, hepsi aynı miktarda alır. Tanık tekliflerini buradan takip edebilirsiniz: [Evolutiontalk](https://evolutiontalk.org/index.php/board,61.0.html).
