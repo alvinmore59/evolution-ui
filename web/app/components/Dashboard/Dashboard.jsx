@@ -19,10 +19,16 @@ class Dashboard extends React.Component {
             "3d2fd4dd":[
                 ["EVO", "USD"],
                 ["EVO", "BTC"],
+                ["EVO", "TILT"],
+                ["EVO", "TIME"],
                 ["USD", "EVO"],
                 ["USD", "BTC"],
+                ["USD", "TILT"],
+                ["USD", "TIME"],
                 ["BTC", "EVO"],
-                ["BTC", "USD"]
+                ["BTC", "USD"],
+                ["BTC", "TILT"],
+                ["BTC", "TIME"]
             ]
         };
         let chainID = Apis.instance().chain_id;

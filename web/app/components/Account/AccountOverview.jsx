@@ -43,13 +43,9 @@ class AccountOverview extends React.Component {
             alwaysShowAssets: [
                 "EVO",
                 "USD",
-                "CNY",
-                "OPEN.BTC",
-                "OPEN.USDT",
-                "OPEN.ETH",
-                "OPEN.MAID",
-                "OPEN.STEEM",
-                "OPEN.DASH"
+                "BTC",
+                "TIME",
+                "TILT"
             ]
         };
     }

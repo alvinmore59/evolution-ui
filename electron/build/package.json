@@ -3,7 +3,7 @@
   "productName": "Evolution",
   "identifier": "org.evolution.evolution",
   "description": "Evolution - cryptocurrency and decentralized exchange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "community@evolution.org",
   "main": "electron.js",
   "config": {

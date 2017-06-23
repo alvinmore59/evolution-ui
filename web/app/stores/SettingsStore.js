@@ -64,7 +64,9 @@ class SettingsStore {
             unit: [
                 CORE_ASSET,
                 "USD",
-                "BTC"
+                "BTC",
+                "TILT",
+                "TIME"
             ],
             showSettles: [
                 {translate: "yes"},
@@ -135,13 +137,13 @@ class SettingsStore {
             // Default markets setup
             let topMarkets = {
                 markets_3d2fd4dd: [ // EVO MAIN NET
-                    "USD", "EVO", "BTC"
+                    "EVO", "USD", "BTC", "TILT", "TIME"
                 ]
             };
 
             let bases = {
                 markets_3d2fd4dd: [ // EVO MAIN NET
-                    "USD", "EVO", "BTC"
+                    "EVO", "USD", "BTC", "TILT", "TIME"
                 ]
             };
 
